@@ -1,0 +1,15 @@
+Erstellen Sie vor der Codierung einen Programmablaufplan für jede Aufgabe!!!
+Aufgabe 1
+Schreiben Sie ein Programm, das einen beliebigen Text in eine Datei schreibt.
+Aufgabe 2
+Schreiben Sie ein Programm, das eine Datei einliest und am Bildschirm anzeigt. Dazu soll das Programm zunächst den Dateinamen abfragen.
+Aufgabe 3
+Erstellen Sie ein Programm, das alle Primzahlen zwischen 2 und 1000 in eine Datei schreibt.
+Lesen Sie anschließend die Datei wieder an und lassen die Zahlen am Bildschirm anzeigen.
+Aufgabe 4
+Erstellen Sie ein Programm, das einen Text vom Benutzer abfragt und diesen Text dann verschlüsselt in eine Datei schreibt. Die Verschlüsselung soll so geschehen, dass nach jedem Zeichen im Text zwei zufällige Zeichen in den Text eingefügt werden.
+Aus dem Wort „an“ würde also beispielsweise das Wort „ax1n@%“.
+Erweitern Sie das Programm so, dass eine derart verschlüsselte Datei wieder als Klartext am Bildschirm ausgegeben wird.
+Zusatzaufgabe: Erweitern Sie das Programm so, dass der Benutzer nicht nur einen Text sondern auch den Namen einer Textdatei angeben kann.
+Aufgabe 4
+Erstellen Sie ein Programm, das eine Textdatei einliest und die Häufigkeit der vorkommenden Buchstaben ermittelt. Es soll dabei nicht nach Groß- und Kleinbuchstaben unterschieden werden. Zählen Sie nur die „internationalen“ Buchstaben.
